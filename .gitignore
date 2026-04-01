@@ -1,0 +1,6 @@
+Data/ 
+runs/ 
+*.pt 
+*.jpg 
+*.png 
+.ipynb_checkpoints/ 
